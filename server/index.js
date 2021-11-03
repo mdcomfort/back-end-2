@@ -27,3 +27,5 @@ app.put('/api/houses/:id', updateHouse)
 app.delete('/api/houses/:id', deleteHouse)
 
 app.listen(4004, () => console.log("Server is running on 4004."))
+
+// test
